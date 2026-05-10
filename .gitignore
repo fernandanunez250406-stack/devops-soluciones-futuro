@@ -1,0 +1,24 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.env
+
+# Virtualenv
+venv/
+env/
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Docker
+docker-compose.override.yml
+.docker/
+Dockerfile.*
+
